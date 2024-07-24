@@ -47,4 +47,4 @@
 <a href="https://discord.gg/youngladpaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="youngladpaul" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <a href="https://twitter.com/adstoshi" target="blank"><img src="https://img.shields.io/twitter/follow/adstoshi?logo=twitter&style=for-the-badge" alt="adstoshi" /></a> </p>
+<p align="left"> <a href="http://x.com/acomunitydao" target="blank"><img src="https://img.shields.io/twitter/follow/The ACOMunity?logo=twitter&style=for-the-badge" alt="adstoshi" /></a> </p>
