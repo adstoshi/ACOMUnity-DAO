@@ -18,7 +18,7 @@
 <hr />
 
 <h3>Getting Involved</h3>
-<p>We welcome contributions from all developers within the ACOMunity. Whether you are a seasoned professional or a new developer looking to gain experience, there are plenty of opportunities to get involved. Check out our open issues or contact us directly if you have ideas for new projects.</p>
+<p>We welcome contributions from all developers within the ACOMunity. Whether you are a professional or a new developer looking to gain experience, there are plenty of opportunities to get involved. Check out our open issues or contact us directly if you have ideas for new projects.</p>
 <hr />
 
 <h3>Repository Guidelines</h3>
