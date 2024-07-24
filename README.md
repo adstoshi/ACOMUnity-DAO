@@ -1,9 +1,11 @@
 <p align="center">
- <img src="https://iconscout.com/illustration/teamwork-4301578" style="width: 100vw; height: 30vh;" alt="MasterHead"/>
+ <img src="https://pbs.twimg.com/profile_banners/1511793390349869067/1650542984/600x200" style="width: 100vw; height: 30vh;" alt="ACOMunity"/>
 </p>
 
-<h1>ACOMunity Development Team</h1>
-<h4>Welcome to the official GitHub account of the ACOMunity Development Team.  </h4>
+<h1 align="center">ACOMunity Development Team</h1>
+<h2 align="center" style="text-align: center;"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+to+ACOMunity+" alt="ACOMunity" /> </h2>
+<h4>Official GitHub account of the ACOMunity Development Team.  </h4>
+
 <hr />
 
 <h3>About Us</h3>
