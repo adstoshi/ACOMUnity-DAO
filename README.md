@@ -4,7 +4,7 @@
 
 <h1 align="center">ACOMunity Development Team</h1>
 <h2 align="center" style="text-align: center;"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+to+ACOMunity+" alt="ACOMunity" /> </h2>
-<h4>Official GitHub account of the ACOMunity Development Team.  </h4>
+<h4 align="center">OFFICIAL GITHUB ACCOUNT OF THE ACOMUNITY DEVELOPMENT TEAM.</h4>
 
 <hr />
 
