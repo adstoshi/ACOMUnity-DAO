@@ -22,7 +22,7 @@
 <hr />
 
 <h3>Repository Guidelines</h3>
-<p>To maintain the integrity and professionalism of our projects, we have established that all conributors adhere to our code of conduct. Follow the Contribution guideline before submiting pull request or issues. Follow the best practice for coding standard which includes but not linited to proper commenting and code reviews. Utilize Github Issues to report bugs, request features and track project progress. last but not list That all contributors build their code and be sure it is bug free before commiting to github with proper commenting, code review and a comprehensive documentation (not the default or auto generated readme).</p>
+<p>To maintain the integrity and professionalism of our projects, we have established that all conributors adhere to our code of conduct. Follow the Contribution guideline before submiting pull request or issues. Follow the best practice for coding standard which includes but not linited to proper commenting and code reviews. Utilize Github Issues to report bugs, request features and track project progress. last but not least That all contributors build their code and be sure it is bug free before commiting to github with proper commenting, code review and a comprehensive documentation (not the default or auto generated readme).</p>
 <hr />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adstoshi&label=Profile%20views&color=0e75b6&style=flat" alt="adstoshi" /> </p>
